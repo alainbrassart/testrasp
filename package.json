@@ -1,6 +1,7 @@
 {
     "name": "TestGitHubRasp",
     "version": "1.0.0",
+    "main": "main.js",
     "scripts": {
         "preinstall": "bash deps.sh",
         "start": "node main.js"
