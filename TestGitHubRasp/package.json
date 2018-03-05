@@ -4,5 +4,8 @@
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "alain",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {},
+    "scripts": {
+        "start": "cd TestGitHubRasp && node main.js" 
+    }
 }
