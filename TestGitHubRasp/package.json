@@ -6,6 +6,7 @@
     "contributors": [],
     "dependencies": {},
     "scripts": {
+        "preinstall": "bash deps.sh",
         "start": "cd TestGitHubRasp && node main.js" 
     }
 }
