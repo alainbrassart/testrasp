@@ -6,7 +6,6 @@
         "preinstall": "bash deps.sh",
         "start": "node main.js"
     },
-    "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "alain",
     "contributors": [],
     "dependencies": {}
